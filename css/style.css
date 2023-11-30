@@ -45,6 +45,10 @@
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
 }
 
+.icones {
+    color: #967128;
+}
+
 .cards_funcionalidades {
     border-color: white;
     transition: 0.2s;
@@ -72,7 +76,7 @@ footer {
     background-color: #444039;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 719px) {
     .botao {
         width: 60%;
         display: block;
